@@ -33,6 +33,6 @@ tags: [紀念]
 
 
 
-<a href="https://jp.irischanglabs.com/pdf/3_Nicolaus Mills.pdf" target="_blank">
-  <img src="https://jp.irischanglabs.com/images/3_Nicolaus Mills.jpg" alt="test" title="点击查看PDF">
+<a href="https://de.irischanglabs.com/pdf/3_Nicolaus Mills.pdf" target="_blank">
+  <img src="https://de.irischanglabs.com/images/3_Nicolaus Mills.jpg" alt="test" title="点击查看PDF">
 </a>

@@ -33,6 +33,6 @@ tags: [紀念]
 
 
 
-<a href="https://jp.irischanglabs.com/pdf/4_Unbearable sadness of others' pain_Laurie Barkin.pdf" target="_blank">
-  <img src="https://jp.irischanglabs.com/images/4_Unbearable sadness of others' pain_Laurie Barkin.jpg" alt="test" title="点击查看PDF">
+<a href="https://de.irischanglabs.com/pdf/4_Unbearable sadness of others' pain_Laurie Barkin.pdf" target="_blank">
+  <img src="https://de.irischanglabs.com/images/4_Unbearable sadness of others' pain_Laurie Barkin.jpg" alt="test" title="点击查看PDF">
 </a>
